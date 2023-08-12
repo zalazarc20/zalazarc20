@@ -27,6 +27,7 @@
 - [My Server of Discord](https://discord.gg/wEWg6ANtq4)
 
 <br>
+<br>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
