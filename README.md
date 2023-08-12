@@ -1,62 +1,6 @@
-<style>
-    .content-parent {
-        display: flex;
-        flex-wrap: wrap;
-        width: 100%;
-        height: 100%;
-        justify-content: space-between; 
-        align-items: center;
-        margin-bottom: 1rem;
-    }
-
-    .item {
-        flex-basis: calc(50% - 10px);
-        padding: 1px;
-        box-sizing: border-box;
-    }
-
-    .item img{
-        margin-right: 2rem;
-    }
-
-    @media (max-width: 770px) {
-        .content-parent{
-            justify-content: flex-start;
-        }
-
-        .content-parent img{
-            width: 100%;
-        }
-    }
-
-    @media (max-width: 468px) {
-        .content-parent{
-            flex-direction: column;
-            align-items: center;
-        }
-        .item {
-            flex-basis: 100%;
-            margin-bottom: 10px;
-            display: flex;
-            align-items: center;
-            flex-direction: column;
-        }
-
-        .item h2{
-            text-align: left;
-            width: 100%;
-        }
-
-        .item img{
-            margin: auto;
-            width: 300px;
-        }
-    }
-</style>
-
 <h2> Hi, I'm Carlos Zalazar! <img src="parrot.gif" width="50"></h2>
 
-<div class="content-parent">
+<img align="right" src="cat2.gif" width="250">
 
 <ul>
     <li>👨‍💻 Passionate about backend and frontend development.</li>
@@ -64,35 +8,25 @@
     <li>🤓 More than 6 years of programming experience.</li>
 </ul>
 
-<img src="cat2.gif" width="250">
-</div>
 
-<div class="content-parent">
+## Skills
+<img align='left' src="cat.gif" width="140">
 
-<div class="item">
-    <h2>Skills</h2>
-    <img align='left' src="cat.gif" width="140">
-    
-<ul class="list-portfolio">
-    <li>👨‍💻 Node js, MongoDB, MySql</li>
-    <li>⚙️ React, Vue</li>
-    <li>👁️ Html, CSS, Javascript</li>
-</ul>
-</div>
+- 👨‍💻 Node js, MongoDB, MySql
+- ⚙️ React, Vue
+- 👁️ Html, CSS, Javascript
 
 
-<div class="item">
-    <h2>Contact</h2>
-    <img align='left' src="coco2.gif" width="140">
-    
-<ul class="list-portfolio">
-    <li><a href="mailto:zalazarc20@gmail.com">My personal email</a></li>
-    <li><a href="https://www.instagram.com/zalazarc20/">zalazarc20</a> on Instagram</li>
-    <li><a href="https://discord.gg/wEWg6ANtq4">My Server of Discord</a></li>
-</ul>
-</div>
+<br>
 
-</div>
+## Contact
+<img align='left' src="coco2.gif" width="140">
+
+- [My Personal Email](mailto:zalazarc20@gmail.com)
+- [zalazarc20](https://www.instagram.com/zalazarc20/) on Instagram.
+- [My Server of Discord](https://discord.gg/wEWg6ANtq4)
+
+<br>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
