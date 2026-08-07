@@ -5,9 +5,7 @@
 # Carlos Zalazar
 ### Full-Stack Developer
 
-Backend y frontend end-to-end: **React + TypeScript** en el cliente, **Node.js + NestJS + Prisma + PostgreSQL** en el servidor.
-
-![6+ años programando](https://img.shields.io/badge/6%2B_años_programando-000000?style=for-the-badge)
+![6+ years](https://img.shields.io/badge/6%2B_años_programando-000000?style=for-the-badge)
 
 </div>
 
@@ -24,28 +22,23 @@ Backend y frontend end-to-end: **React + TypeScript** en el cliente, **Node.js +
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
-![Android TV](https://img.shields.io/badge/Android_TV-000000?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android_TV-000000?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
 
 ## Sobre mí
 
-- Desarrollo productos completos de punta a punta: API, base de datos y frontend.
-- Construyo proyectos propios de streaming y TV — Android TV y Flutter.
-- Trabajo en equipo con agentes de IA: documentación clara, diffs quirúrgicos, entregables listos para usar.
+- Desarrollo backend y frontend end-to-end: React/TypeScript en el cliente, Node.js/NestJS + Prisma + PostgreSQL en el servidor.
+- Además del trabajo con clientes, construyo proyectos propios de streaming y TV — Android TV y Flutter.
+- Estructuro mis proyectos para trabajar en equipo con agentes de IA: documentación clara, cambios quirúrgicos, entregables listos para usar.
 - Siempre abierto a colaborar en proyectos que valgan la pena.
-
-## Actualmente
-
-- Streaming propio y apps para TV (Android TV + Flutter)
-- Backend con Node.js / NestJS / PostgreSQL + Prisma
 
 ## GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=zalazarc20&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zalazarc20&hide_border=true&background=0D0D0D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=zalazarc20&hide_border=true&background=0D0D0D&border=0D0D0D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8A8A8A" alt="GitHub streak" />
 
 </div>
 
@@ -67,4 +60,4 @@ Backend y frontend end-to-end: **React + TypeScript** en el cliente, **Node.js +
 
 <br>
 
-<p align="center"><sub>¿Tenés una idea o un proyecto en mente? Escribime — siempre abierto a hablar de código.</sub></p>
+<p align="center"><sub>Gracias por pasar por mi perfil — siempre abierto a hablar de proyectos, ideas o simplemente charlar de código.</sub></p>
